@@ -3,7 +3,7 @@ title: redmac
 subtitle: 
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://redmac.github.io/">@redmac</a>
 
 url: "http://vno.onevcat.com"
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/redmac'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
