@@ -1,8 +1,8 @@
 # Basic
 title: redmac
 subtitle: 精诚所至 金石为开
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">探索swift的之路</a>
-description: 嗨，我是redmac,正在上海，iOS开发者。
+welcome_message: <a href="www.swift.org" target="_blank">探索swift的之路</a>
+description: 嗨，我是redmac,目前在上海，从事iOS开发
 creator: <a href="http://redmac.github.io/">@redmac</a>
 
 url: "http://redmac.github.io/"
