@@ -1,6 +1,6 @@
 # Basic
 title: redmac
-subtitle: 精诚所至 金石为开.
+subtitle: 精诚所至 金石为开
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">探索swift的之路</a>
 description: 嗨，我是redmac,正在上海，iOS开发者。
 creator: <a href="http://redmac.github.io/">@redmac</a>
@@ -10,7 +10,7 @@ url: "http://redmac.github.io/"
 permalink: /:year/:month/:title/
 
 # Format
-highlighter: plain
+highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: red
