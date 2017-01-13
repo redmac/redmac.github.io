@@ -1,11 +1,11 @@
 # Basic
 title: redmac
-subtitle: 
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+subtitle: 精诚所至 金石为开
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">嗨，我是redmac,正在上海，iOS开发者。</a>
+description: 精诚所至 金石为开.
 creator: <a href="http://redmac.github.io/">@redmac</a>
 
-url: "http://vno.onevcat.com"
+url: "http://redmac.github.io/"
 
 permalink: /:year/:month/:title/
 
@@ -17,12 +17,12 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 博客
+    description: 访问博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'https://github.com/redmac'}
+    - {title: 项目, description: 我的项目, url: 'https://github.com/redmac'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
